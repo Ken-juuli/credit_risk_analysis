@@ -1,3 +1,11 @@
 # Credit-Risk-Analysis
 
-Analysis of loanee defaulting on a loan 
+Financial institutions incur significant losses due to the default of vehicle loans. This has led to the tightening up of vehicle loan underwriting and increased vehicle loan rejection rates. The need for a better credit risk scoring model is also raised by these institutions. 
+
+Key Questions
+
+● What are the main factors behind defaulting?
+
+● Is there any specific financial behaver for deflated customers, such as time using the loan, the cost they pay, employment type, etc.?
+
+● Which area has the highest number of defaults?
