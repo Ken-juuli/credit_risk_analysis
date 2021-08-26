@@ -11,3 +11,5 @@ Key Questions
 ● Which area has the highest number of defaults?
 
 ● When are customers defaulted the most?
+
+The final presentation is  [here](https://public.tableau.com/app/profile/kentaro.fujita/viz/FinalTask_16297630313420/Story1) on Tableau
