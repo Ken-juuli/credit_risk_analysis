@@ -9,3 +9,5 @@ Key Questions
 ● Is there any specific financial behaver for deflated customers, such as time using the loan, the cost they pay, employment type, etc.?
 
 ● Which area has the highest number of defaults?
+
+● When are customers defaulted the most?
