@@ -1,8 +1,8 @@
 # Credit-Risk-Analysis
 
-Analyzing Financial institutions borrower. The data set used was provided via [Kaggle](https://www.kaggle.com/mamtadhaker/lt-vehicle-loan-default-prediction?select=data_dictionary.csv).
+## Analyzing Financial institutions borrower. The data set used was provided via [Kaggle](https://www.kaggle.com/mamtadhaker/lt-vehicle-loan-default-prediction?select=data_dictionary.csv).
 
-This was my last case study in my CareerFoundry course and was an exploratory analysis. Some actions taken included:
+## This was my last case study in my CareerFoundry course and was an exploratory analysis. Some actions taken included:
 
 1. Open sourcing the data
 
@@ -14,9 +14,9 @@ This was my last case study in my CareerFoundry course and was an exploratory an
 
 
 
-Financial institutions incur significant losses due to the default of vehicle loans. This has led to the tightening up of vehicle loan underwriting and increased vehicle loan rejection rates. The need for a better credit risk scoring model is also raised by these institutions. 
+## Financial institutions incur significant losses due to the default of vehicle loans. This has led to the tightening up of vehicle loan underwriting and increased vehicle loan rejection rates. The need for a better credit risk scoring model is also raised by these institutions. 
 
-Key Questions
+## Key Questions
 
 ● What are the main factors behind defaulting?
 
