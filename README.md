@@ -1,4 +1,4 @@
-*# Credit-Risk-Analysis
+**# Credit-Risk-Analysis**
 
 ## Analyzing Financial institutions borrower. The data set used was provided via [Kaggle](https://www.kaggle.com/mamtadhaker/lt-vehicle-loan-default-prediction?select=data_dictionary.csv). This was my last case study in my CareerFoundry course and was an exploratory analysis. Some actions taken included:
 
