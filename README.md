@@ -2,7 +2,7 @@
 
 ### Analyzing Financial institutions borrower. The data set used was provided via [Kaggle](https://www.kaggle.com/mamtadhaker/lt-vehicle-loan-default-prediction?select=data_dictionary.csv). Some actions taken included:
 
-1. Open sourcing the data
+1. Sourcing the data
 
 2. Combining data with a .shp file for a more in-depth geographic analysis
 
